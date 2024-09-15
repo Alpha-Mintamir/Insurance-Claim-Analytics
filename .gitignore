@@ -6,12 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+data/
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
-data/
+
 venv/
 downloads/
 eggs/
